@@ -1,0 +1,7 @@
+C:\Users\Anton\source\repos\BinaryHeap\BinaryHeap\bin\Debug\BinaryHeap.exe.config
+C:\Users\Anton\source\repos\BinaryHeap\BinaryHeap\bin\Debug\BinaryHeap.exe
+C:\Users\Anton\source\repos\BinaryHeap\BinaryHeap\bin\Debug\BinaryHeap.pdb
+C:\Users\Anton\source\repos\BinaryHeap\BinaryHeap\obj\Debug\BinaryHeap.csprojResolveAssemblyReference.cache
+C:\Users\Anton\source\repos\BinaryHeap\BinaryHeap\obj\Debug\BinaryHeap.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\BinaryHeap\BinaryHeap\obj\Debug\BinaryHeap.exe
+C:\Users\Anton\source\repos\BinaryHeap\BinaryHeap\obj\Debug\BinaryHeap.pdb
